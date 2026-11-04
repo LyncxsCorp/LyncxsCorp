@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:14B8A6,100:0891B2&height=260&section=header&text=LYNCXS%20CORP&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Enterprise-Grade%20Solutions%20%C2%B7%20Built%20for%20Scale&descSize=19&descAlignY=60&descColor=CCFBF1" width="100%" alt="Lyncxs Corp banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:14B8A6,100:0891B2&height=260&section=header&text=LYNCXS%20CORP&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Enterprise-Grade%20Solutions%20-%20Built%20for%20Scale&descSize=19&descAlignY=60&descColor=CCFBF1" width="100%" alt="Lyncxs Corp banner"/>
 
 <a href="https://corp.lyncxs.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=40&lines=Enterprise+architecture+%C2%B7+Built+for+Africa+%F0%9F%8C%8D;Multi-tenant+SaaS+%C2%B7+99.99%25+uptime+%E2%9A%A1;Scalable+%C2%B7+Secure+%C2%B7+Compliant+%F0%9F%94%92;ERP+%C2%B7+CRM+%C2%B7+Analytics+%C2%B7+APIs;Security+by+design,+not+by+accident." alt="Typing animation"/>
@@ -124,15 +124,6 @@ const LyncxsCorp = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=LyncxsCorp&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
-<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-sea.svg)
 
 </div>
 
