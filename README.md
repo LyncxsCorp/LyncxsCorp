@@ -123,7 +123,7 @@ const LyncxsCorp = {
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-sea.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
